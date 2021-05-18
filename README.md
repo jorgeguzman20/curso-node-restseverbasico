@@ -1,3 +1,3 @@
-# Webserver + Restserver
+# WebServer + RestServer
 
-Recuerden que debe hacer ``` npm install ``` para rebuild el proyecto 
+Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node.
